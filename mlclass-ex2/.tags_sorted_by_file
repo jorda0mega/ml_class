@@ -1,0 +1,47 @@
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_PROGRAM_VERSION	5.8	//
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+costFunction	costFunction.m	/^function [J, grad] = costFunction(theta, X, y)$/;"	f
+costFunctionReg	costFunctionReg.m	/^function [J, grad] = costFunctionReg(theta, X, y, lambda)$/;"	f
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+mapFeature	mapFeature.m	/^function out = mapFeature(X1, X2)$/;"	f
+plotData	plotData.m	/^function plotData(X, y)$/;"	f
+plotDecisionBoundary	plotDecisionBoundary.m	/^function plotDecisionBoundary(theta, X, y)$/;"	f
+predict	predict.m	/^function p = predict(theta, X)$/;"	f
+sigmoid	sigmoid.m	/^function g = sigmoid(z)$/;"	f
+basicPrompt	submit.m	/^function [login password] = basicPrompt()$/;"	f
+bitadd	submit.m	/^function ret = bitadd(iA, iB)$/;"	f
+bitrotate	submit.m	/^function ret = bitrotate(iA, places)$/;"	f
+challengeResponse	submit.m	/^function [str] = challengeResponse(email, passwd, challenge)$/;"	f
+challenge_url	submit.m	/^function url = challenge_url()$/;"	f
+getChallenge	submit.m	/^function [email,ch,signature] = getChallenge(email)$/;"	f
+homework_id	submit.m	/^function id = homework_id() $/;"	f
+isValidPartId	submit.m	/^function ret = isValidPartId(partId)$/;"	f
+loginPrompt	submit.m	/^function [login password] = loginPrompt()$/;"	f
+output	submit.m	/^function out = output(partId)$/;"	f
+promptPart	submit.m	/^function partId = promptPart()$/;"	f
+sha1	submit.m	/^function hash = sha1(str)$/;"	f
+source	submit.m	/^function src = source(partId)$/;"	f
+sources	submit.m	/^function srcs = sources()$/;"	f
+submit	submit.m	/^function submit(partId)$/;"	f
+submitSolution	submit.m	/^function [result, str] = submitSolution(email, ch_resp, part, output, ...$/;"	f
+submit_url	submit.m	/^function url = submit_url()$/;"	f
+validParts	submit.m	/^function [partNames] = validParts()$/;"	f
+base64encode	submitWeb.m	/^function y = base64encode(x, eol)$/;"	f
+basicPrompt	submitWeb.m	/^function [login] = basicPrompt()$/;"	f
+homework_id	submitWeb.m	/^function id = homework_id() $/;"	f
+isValidPartId	submitWeb.m	/^function ret = isValidPartId(partId)$/;"	f
+loginPrompt	submitWeb.m	/^function [login] = loginPrompt()$/;"	f
+output	submitWeb.m	/^function out = output(partId)$/;"	f
+p_s	submitWeb.m	/^function s = p_s(str)$/;"	f
+p_s64	submitWeb.m	/^function s = p_s64(str)$/;"	f
+promptPart	submitWeb.m	/^function partId = promptPart()$/;"	f
+source	submitWeb.m	/^function src = source(partId)$/;"	f
+sources	submitWeb.m	/^function srcs = sources()$/;"	f
+submitSolution	submitWeb.m	/^function [result, str] = submitSolution(email, part, output, source)$/;"	f
+submitWeb	submitWeb.m	/^function submitWeb(partId)$/;"	f
+validParts	submitWeb.m	/^function [partNames] = validParts()$/;"	f
+hello	temp.rb	/^def hello()$/;"	f
+paste	temp.rb	/^def paste()$/;"	f
